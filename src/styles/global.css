@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "geist medium";
+  src: url("/fonts/geist_medium.woff2") format("woff2");
+  font-weight: medium;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "geist";
+  src: url("/fonts/geist_regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+html {
+  font-size: 62.5%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "geist", sans-serif;
+  color: #333;
+  background-color: #f8f8f8;
+  font-size: 1.6rem;
+  line-height: 2;
+}
+
+.container {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 2rem 3rem;
+  width: 100%;
+}
+.section {
+
+		margin-top: 8rem;
+
+}
