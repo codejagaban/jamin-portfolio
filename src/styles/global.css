@@ -17,7 +17,7 @@
 html {
   font-size: 62.5%;
   height: 100%;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
 }
 
 body {
@@ -35,7 +35,11 @@ body {
   width: 100%;
 }
 .section {
-
-		margin-top: 8rem;
-
+  margin-top: 8rem;
+}
+a {
+  text-decoration: none;
+  color: #333;
+  border-bottom: 1.5px solid #A78BFA;
+  transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }

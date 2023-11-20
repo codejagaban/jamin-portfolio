@@ -13,13 +13,15 @@ const isActive = href === pathname || href === pathname.replace(/\/$/, "");
   <slot />
 </a>
 <style>
-     a {
-      margin-right: 20px;
-      color: #333;
-      text-decoration: none;
-    }
-    a:hover, a.active {
-      border-bottom: 2px solid #A78BFA;
-      transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    }
+  a {
+    margin-right: 20px;
+    color: #333;
+    text-decoration: none;
+    border-bottom: 0;
+  }
+  a:hover,
+  a.active {
+    border-bottom: 1.5px solid #a78bfa;
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
 </style>
