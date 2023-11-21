@@ -1,3 +1,12 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
 @font-face {
   font-family: "geist medium";
   src: url("/fonts/geist_medium.woff2") format("woff2");
@@ -24,22 +33,25 @@ body {
   font-family: "geist", sans-serif;
   color: #333;
   background-color: #f8f8f8;
+  /* background-color: #fff; */
   font-size: 1.6rem;
-  line-height: 2;
+  line-height: 1.8;
 }
-
+h1, h2, h3 {
+  font-family: "geist medium", sans-serif;
+}
 .container {
   max-width: 80rem;
   margin: 0 auto;
   padding: 2rem 3rem;
   width: 100%;
 }
-.section {
-  margin-top: 8rem;
-}
 a {
   text-decoration: none;
   color: #333;
   border-bottom: 1.5px solid #A78BFA;
   transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+p {
+  padding: 1rem 0;
 }
