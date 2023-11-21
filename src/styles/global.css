@@ -8,14 +8,6 @@
 
 
 @font-face {
-  font-family: "geist medium";
-  src: url("/fonts/geist_medium.woff2") format("woff2");
-  font-weight: medium;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
   font-family: "geist";
   src: url("/fonts/geist_regular.woff2") format("woff2");
   font-weight: normal;
@@ -37,9 +29,7 @@ body {
   font-size: 1.6rem;
   line-height: 1.8;
 }
-h1, h2, h3 {
-  font-family: "geist medium", sans-serif;
-}
+
 .container {
   max-width: 80rem;
   margin: 0 auto;
@@ -54,4 +44,8 @@ a {
 }
 p {
   padding: 1rem 0;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
 }
