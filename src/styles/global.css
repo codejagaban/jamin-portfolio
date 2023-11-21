@@ -23,13 +23,13 @@ html {
 
 body {
   font-family: "geist", sans-serif;
-  color: #333;
-  background-color: #f8f8f8;
-  -webkit-font-smoothing: antialiased;
-  font-size: 1.6rem;
-  line-height: 1.8;
-}
-
+    color: #333;
+    background-color: #f8f8f8;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 1.6rem;
+    line-height: 1.8;
+  }
 .container {
   max-width: 80rem;
   margin: 0 auto;
