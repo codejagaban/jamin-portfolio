@@ -25,12 +25,14 @@ import data from "../data/blog.json";
 <style>
   .post {
     display: block;
-    padding: 1rem 2rem;
+    padding: 2rem;
     margin: 1rem 0;
     border: none;
+    background-color: none;
+    transition: background-color 0.5s ease-out;
   }
-a.post:hover {
-  background-color: #fff;
+.post:hover {
+  background-color: #dfdfdf;
   border: none;
   border-radius: 5px;
   box-shadow: 0px 10px 15px -22px rgba(0,0,0,0.1);
