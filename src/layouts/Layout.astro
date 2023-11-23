@@ -43,7 +43,7 @@ const { title, description, keywords, image } = Astro.props;
     <main>
       <slot />
     </main>
-    <Analytics />
+    <Analytics  client:load/>
   </body>
 </html>
 <!-- <style is:global>
