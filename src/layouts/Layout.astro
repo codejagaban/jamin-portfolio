@@ -1,6 +1,8 @@
 ---
 import "../styles/global.css";
 import Header from "./Header.astro";
+import { Analytics } from '@vercel/analytics/react';
+
 interface Props {
   title: string;
   description: string;
@@ -41,6 +43,7 @@ const { title, description, keywords, image } = Astro.props;
     <main>
       <slot />
     </main>
+    <Analytics />
   </body>
 </html>
 <!-- <style is:global>
