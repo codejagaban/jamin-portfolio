@@ -2,6 +2,10 @@
 import Layout from "../layouts/Layout.astro";
 import { Image } from "astro:assets";
 import go from "../images/go.svg";
+import linkedIn from "../images/linkedin.svg";
+import x from "../images/x.svg";
+import github from "../images/github.svg";
+import mail from "../images/mail.svg";
 ---
 
 <Layout title="Welcome to Trust Jamin's website" description="Jamin is a software engineer who is devoted to making the web easily accessible for everyone. here you'll find some of his previous projects,technical articles, community management endeavors,involvments in open source projects and pieces of information about him." keywords="code contributions,developer advocate, open source collaboration,technical Writing, community engagement,problem solver,software development,developer-communities, DevRel" image="/home.png">
@@ -27,6 +31,20 @@ import go from "../images/go.svg";
           remarkable performance as a programming language. As you must have
           possibly guessed, this portfolio is still a WIP. 🚧
         </p>
+        <p class="socials">
+         <a href="http://github.com/0xJamin" target="_blank" rel="noopener noreferrer">
+          <Image src={github} alt="Github Icon" class="" />
+          </a>
+          <a href="http://x.com/0xJamin" target="_blank" rel="noopener noreferrer">
+            <Image src={x} alt="Twitter Icon" class="" />
+            </a>
+            <a href="http://linkedin.com/0xJamin" target="_blank" rel="noopener noreferrer">
+              <Image src={linkedIn} alt="LinkedIn Icon" class="" />
+              </a>
+              <a href="mailto:hellotsjamin" target="_blank" rel="noopener noreferrer">
+                <Image src={mail} alt="Email Icon" class="" />
+                </a>
+        </p>
       </div>
     </div>
   </section>
@@ -38,5 +56,16 @@ import go from "../images/go.svg";
   }
   .goLang {
     vertical-align: middle;
+  }
+  .socials {
+    margin-top: 50px;
+  }
+  .socials a {
+    border: none;
+    vertical-align: middle;
+
+  }
+  .socials a:not(:last-child) {
+margin-right: 20px;
   }
 </style>
