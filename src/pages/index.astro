@@ -8,17 +8,21 @@ import github from "../images/github.svg";
 import mail from "../images/mail.svg";
 ---
 
-<Layout title="Welcome to Trust Jamin's website" description="Trust Jamin is a software engineer who is devoted to making the web easily accessible for everyone. here you'll find some of his previous projects,technical articles, community management endeavors,involvments in open source projects and pieces of information about him." keywords="code contributions,developer advocate, open source collaboration,technical Writing, community engagement,problem solver,software development,developer-communities, DevRel" image="/home.png">
+<Layout
+  title="Welcome to Trust Jamin's website"
+  description="Trust Jamin is a software engineer who is devoted to making the web easily accessible for everyone. here you'll find some of his previous projects,technical articles, community management endeavors,involvments in open source projects and pieces of information about him."
+  keywords="code contributions,developer advocate, open source collaboration,technical Writing, community engagement,problem solver,software development,developer-communities, DevRel"
+  image="/home.png"
+>
   <section>
     <div class="container">
       <div class="content">
         <h1><span>Hey 👋🏼, I'm</span> Jamin</h1>
         <p class="intro">
-          software engineer deeply interested in bridging
-          connections between developers and state-of-the-art technology. I
-          write <a href="/blog">technical articles</a> and manage <a
-            href="/works#communities">developer-communities</a
-          >, and in my free time , you can find me contributing to <a
+          software engineer deeply interested in bridging connections between
+          developers and state-of-the-art technology. I build <a
+            href="/projects#Engineering Projects">products</a
+          > , and write <a href="/blog">technical articles</a>. In my free time , you can find me contributing to <a
             href="http://github.com/0xJamin"
             target="_blank"
             rel="noopener noreferrer">open-source</a
@@ -26,24 +30,43 @@ import mail from "../images/mail.svg";
           challenges I have previously encountered.
         </p>
         <p>
-          Presently,
-          I’m learning GoLang <Image src={go} alt="Go Icon" class="goLang" /> and I’m surprised at its inherent simplicity and
-          remarkable performance as a programming language. As you must have
-          possibly guessed, this portfolio is still a WIP. 🚧
+          Presently, I’m learning GoLang <Image
+            src={go}
+            alt="Go Icon"
+            class="goLang"
+          /> and I’m surprised at its inherent simplicity and remarkable
+          performance as a programming language. As you must have possibly
+          guessed, this portfolio is still a WIP. 🚧
         </p>
         <p class="socials">
-         <a href="http://github.com/0xJamin" target="_blank" rel="noopener noreferrer">
-          <Image src={github} alt="Github Icon" class="" />
+          <a
+            href="http://github.com/0xJamin"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Image src={github} alt="Github Icon" class="" />
           </a>
-          <a href="http://x.com/0xJamin" target="_blank" rel="noopener noreferrer">
+          <a
+            href="http://x.com/0xJamin"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Image src={x} alt="Twitter Icon" class="" />
-            </a>
-            <a href="http://linkedin.com/0xjamin" target="_blank" rel="noopener noreferrer">
-              <Image src={linkedIn} alt="LinkedIn Icon" class="" />
-              </a>
-              <a href="mailto:hellotsjamin" target="_blank" rel="noopener noreferrer">
-                <Image src={mail} alt="Email Icon" class="" />
-                </a>
+          </a>
+          <a
+            href="http://linkedin.com/0xjamin"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Image src={linkedIn} alt="LinkedIn Icon" class="" />
+          </a>
+          <a
+            href="mailto:hellotsjamin"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Image src={mail} alt="Email Icon" class="" />
+          </a>
         </p>
       </div>
     </div>
@@ -63,9 +86,8 @@ import mail from "../images/mail.svg";
   .socials a {
     border: none;
     vertical-align: middle;
-
   }
   .socials a:not(:last-child) {
-margin-right: 20px;
+    margin-right: 20px;
   }
 </style>
