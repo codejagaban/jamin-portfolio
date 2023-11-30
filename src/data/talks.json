@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Leveraging Server-side Rendering for Enhanced Web Performance and SEO",
+    "confName": "CityJS Conf Lagos 2023",
+    "confLink": "https://nigeria.cityjsconf.org/",
+    "slide": "https://speakerdeck.com/0xjamin/leveraging-server-side-rendering-for-enhanced-web-performance-and-seo",
+    "date": "11th Nov 2023"
+  },
+  {
+    "title": "Jira and Frontend Development",
+    "confName": "Atlassian Community Event",
+    "confLink": "https://ace.atlassian.com/events/details/atlassian-oghara-presents-jira-and-frontend-development/",
+    "slide": "https://speakerdeck.com/0xjamin/jira-and-frontend-development",
+    "date": "22 Apr 2023"
+  },
+  {
+    "title": "Building a Career as a Developer",
+    "confName": "Atlassian Community Event",
+    "confLink": "https://ace.atlassian.com/events/details/trello-oghara-presents-remote-work-and-career-advancement/",
+    "slide": "https://speakerdeck.com/0xjamin/becoming-a-developer",
+    "date": "23 Nov 2022"
+  },
+  {
+    "title": "Designing a Good Product",
+    "confName": "Webflow Event",
+    "confLink": "https://www.meetup.com/15b6c324-b7ef-4ffe-b905-4b87121c64db/",
+    "slide": "https://speakerdeck.com/0xjamin/designing-a-good-product",
+    "date": "10 Nov 2020"
+  },
+  {
+    "title": "An Introduction to Gatsby",
+    "confName": "Gatsby Meetup",
+    "confLink": "#",
+    "slide": "https://slides.com/d/4NzCeeo/live",
+    "date": "23 Oct 2019"
+  }
+]
