@@ -1,0 +1,194 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Image } from "astro:assets";
+import go from "../images/go.svg";
+import linkedIn from "../images/linkedin.svg";
+import x from "../images/x.svg";
+import github from "../images/github.svg";
+import mail from "../images/mail.svg";
+---
+
+<Layout
+  title="About Me"
+  description="Trust Jamin is a software engineer who is devoted to making the web easily accessible for everyone. here you'll find some of his previous projects,technical articles, community management endeavors,involvments in open source projects and pieces of information about him."
+  keywords="code contributions,developer advocate, open source collaboration,technical Writing, community engagement,problem solver,software development,developer-communities, DevRel"
+  image="/home.png"
+>
+  <section>
+    <div class="container">
+      <div class="content">
+        <h1>About me</h1>
+        <p class="intro">
+          Hey 👋🏼, I'm Jamin software engineer deeply interested in bridging
+          connections between developers and state-of-the-art technology. I
+          build <a href="/projects#Engineering Projects">products</a> , and
+          write <a href="/blog">technical articles</a>. In my free time , you
+          can find me contributing to <a
+            href="http://github.com/0xJamin"
+            target="_blank"
+            rel="noopener noreferrer">open-source</a
+          > projects or developing <a href="/works#projects">solutions</a> for
+          challenges I have previously encountered.
+        </p>
+        <p>
+          Presently, I’m learning GoLang <Image
+            src={go}
+            alt="Go Icon"
+            class="goLang"
+          /> and I’m surprised at its inherent simplicity and remarkable
+          performance as a programming language. As you must have possibly
+          guessed, this portfolio is still a WIP. 🚧
+        </p>
+        <p>
+          <a
+            href="mailto:hellotsjamin@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Shoot me an email
+            <svg
+              width="12"
+              height="12"
+              viewBox="0 0 12 12"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              ><path
+                d="M2.07102 11.3494L0.963068 10.2415L9.2017 1.98864H2.83807L2.85227 0.454545H11.8438V9.46023H10.2955L10.3097 3.09659L2.07102 11.3494Z"
+                fill="currentColor"></path></svg
+            >
+          </a>
+        </p>
+        <h2>Skills and technologies</h2>
+        <div class="grid">
+          <ul>
+            <li>Nodejs</li>
+            <li>Nextjs</li>
+            <li>Docker</li>
+            <li>AWS</li>
+            <li>Astro (this website was built with it)</li>
+            <li>Reactjs</li>
+            <li>JavaScript/ TypeScript</li>
+            <li>Solidity</li>
+
+          </ul>
+          <ul>
+            <li>GoLang</li>
+            <li>GraphQL</li>
+            <li>Databases (PostgreSQL, MySQL, MongoDB)</li>
+            <li>Content management systems (CMS)</li>
+            <li>Community building and management</li>
+            <li>Programs management and organization</li>
+            <li>API Documentation</li>
+            <li>Technial Writing</li>
+       
+          </ul>
+        </div>
+        <div>
+          <h2>Writing activities</h2>
+          <ul>
+            <li>
+              <a
+                href="https://blog.jamiin.com/"
+                target="_blank"
+                rel="noopener noreferrer">Personal Blog</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://blog.apify.com/author/jamin/"
+                target="_blank"
+                rel="noopener noreferrer">Apify</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://plainenglish.io/author/trust-jamin"
+                target="_blank"
+                rel="noopener noreferrer">Plain English</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://docs.directus.io/blog/"
+                target="_blank"
+                rel="noopener noreferrer">Directus</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div>
+          <h2>Community activities</h2>
+          <ul>
+            <li>
+              Head of Programs and Ecosystem <a
+                href="https://www.communityleads.africa/"
+                target="_blank"
+                rel="noopener noreferrer">Community Leads Africa</a
+              >
+            </li>
+            <li>
+              Program Manager <a
+                href="https://cmfest.africa/"
+                target="_blank"
+                rel="noopener noreferrer">CMFest Africa</a
+              >
+            </li>
+            <li>
+              Co-Lead <a
+                href="https://twitter.com/lagosguild"
+                target="_blank"
+                rel="noopener noreferrer">Polygon Guild Lagos</a
+              >
+            </li>
+            <li>
+              Community Manager <a
+                href="http://https://lu.ma/notion-lagos-1"
+                target="_blank"
+                rel="noopener noreferrer">Notion Lagos</a
+              >
+            </li>
+            <li>
+              Organizer <a
+                href="https://gdg.community.dev/gdg-sapele/"
+                target="_blank"
+                rel="noopener noreferrer">GDG Sapele</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  section {
+    padding-bottom: 30px;
+  }
+  div {
+    margin-bottom: 20px;
+  }
+  .grid {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 1fr auto;
+  }
+  .grid li {
+    flex: 50%;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  .goLang {
+    vertical-align: middle;
+  }
+  ul {
+    margin-left: 30px;
+  }
+  .socials a {
+    border: none;
+    vertical-align: middle;
+  }
+  .socials a:not(:last-child) {
+    margin-right: 20px;
+  }
+</style>
