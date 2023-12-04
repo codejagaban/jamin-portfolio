@@ -19,25 +19,12 @@ import mail from "../images/mail.svg";
       <div class="content">
         <h1>About me</h1>
         <p class="intro">
-          Hey 👋🏼, I'm Jamin software engineer deeply interested in bridging
-          connections between developers and state-of-the-art technology. I
-          build <a href="/projects#Engineering Projects">products</a> , and
-          write <a href="/blog">technical articles</a>. In my free time , you
-          can find me contributing to <a
-            href="http://github.com/0xJamin"
-            target="_blank"
-            rel="noopener noreferrer">open-source</a
-          > projects or developing <a href="/works#projects">solutions</a> for
-          challenges I have previously encountered.
+          Hey 👋🏼, I'm Jamin a software engineer with over 5 years of experience in building products that runs on the web.
         </p>
+        <p>Lately, you'll find me either writing a tutorial or documentation (sometimes it's about a bug/fix I encountered) that can help developers use modern tools to build cool applications 🙌🏼 </p>
+        <p>I believe constant learning and improvement are the catalysts of personal and professional growth, and they can empower an individual to adapt to change, overcome challenges, and unlock their full potential, so I'm always learning to become the finest version of myself.</p>
         <p>
-          Presently, I’m learning GoLang <Image
-            src={go}
-            alt="Go Icon"
-            class="goLang"
-          /> and I’m surprised at its inherent simplicity and remarkable
-          performance as a programming language. As you must have possibly
-          guessed, this portfolio is still a WIP. 🚧
+          My career started in my local developer community, and so I'm a huge fan of building with developer communities. Oftentimes, you'll find me either leading a program or participating as one of the organizers to help create a good experience for developer-focused events.
         </p>
         <p>
           <a
@@ -79,7 +66,6 @@ import mail from "../images/mail.svg";
             <li>Programs management and organization</li>
             <li>API Documentation</li>
             <li>Technial Writing</li>
-       
           </ul>
         </div>
         <div>
@@ -172,23 +158,19 @@ import mail from "../images/mail.svg";
     grid-gap: 1rem;
     grid-template-columns: 1fr auto;
   }
+  @media screen and (max-width: 640px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+  }
   .grid li {
     flex: 50%;
   }
   h1 {
     font-size: 3rem;
   }
-  .goLang {
-    vertical-align: middle;
-  }
   ul {
     margin-left: 30px;
   }
-  .socials a {
-    border: none;
-    vertical-align: middle;
-  }
-  .socials a:not(:last-child) {
-    margin-right: 20px;
-  }
+
 </style>
