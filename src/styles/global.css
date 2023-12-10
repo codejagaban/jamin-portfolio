@@ -28,27 +28,41 @@ html {
 }
 
 body {
+  --background-color: #f8f8f8;
+  --foreground-color: #333;
+  --dark-foreground-color: #c9c9c9;
+  --dark-background-color: #121212;
   font-family: "geist", sans-serif;
-    color: #333;
-    background-color: #f8f8f8;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: subpixel-antialiased;
-    -moz-osx-font-smoothing: auto;
-    font-size: 1.6rem;
-    line-height: 1.8;
+  color: var(--foreground-color);
+  background-color: var(--background-color);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: auto;
+  font-size: 1.6rem;
+  line-height: 1.8;
+  }
+
+  .fill {
+    fill: var(--foreground-color);
+  }
+  .stroke {
+    stroke: var(--foreground-color);
   }
   @media (prefers-color-scheme: dark) {
     body {
-      color: #dfdfdf;
-      background: #161616;
+      color: var(--dark-foreground-color);
+      background: var(--dark-background-color);
     }
-  
     body a {
-      color: #dfdfdf;
+      color: var(--dark-foreground-color);
     }
-    svg path {
-      stroke: #dfdfdf;
+    .fill {
+      fill: var(--dark-foreground-color);;
     }
+    .stroke {
+      stroke: var(--dark-foreground-color);;
+    }
+
   }
   h1, h2, h3 {
     font-family: "geist medium", sans-serif;
@@ -68,8 +82,4 @@ a {
 }
 p {
   padding: 1rem 0;
-}
-.dark-mode {
-  background-color: black;
-  color: white;
 }
