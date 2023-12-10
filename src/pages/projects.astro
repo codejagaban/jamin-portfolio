@@ -86,7 +86,13 @@ import projects from "../data/projects.json";
     white-space: nowrap;
     display: block;
   }
-  svg {
-    margin-left: 5px;
+  /* Dark mode settings  */
+  @media (prefers-color-scheme: dark) {
+    .project:hover {
+      background: #2a2a2a;
+    }
+    .tech {
+      background-color: #414141;
+    }
   }
 </style>

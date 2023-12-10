@@ -51,11 +51,21 @@ const { href, title, body } = Astro.props;
 		margin-top: 0.5rem;
 		margin-bottom: 0;
 	}
-	.link-card:is(:hover, :focus-within) {
-		background-position: 0;
-		background-image: var(--accent-gradient);
-	}
-	.link-card:is(:hover, :focus-within) h2 {
-		color: rgb(var(--accent-light));
-	}
+
+
+	@media (prefers-color-scheme: dark) {
+    .link-card {
+      color: var(--dark-foreground-color);
+      background: var(--dark-background-color);
+    }
+    body a {
+      color: var(--dark-foreground-color);
+    }
+    .fill {
+      fill: var(--dark-foreground-color);;
+    }
+    .stroke {
+      stroke: var(--dark-foreground-color);;
+    }
+  }
 </style>
