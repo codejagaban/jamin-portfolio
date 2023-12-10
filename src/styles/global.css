@@ -37,6 +37,19 @@ body {
     font-size: 1.6rem;
     line-height: 1.8;
   }
+  @media (prefers-color-scheme: dark) {
+    body {
+      color: #dfdfdf;
+      background: #161616;
+    }
+  
+    body a {
+      color: #dfdfdf;
+    }
+    svg path {
+      stroke: #dfdfdf;
+    }
+  }
   h1, h2, h3 {
     font-family: "geist medium", sans-serif;
 
