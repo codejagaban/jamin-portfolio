@@ -12,20 +12,19 @@
   src: url("/fonts/geist_regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
+  font-display: auto;
 }
 @font-face {
   font-family: "geist medium";
   src: url("/fonts/geist_medium.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
-  font-display: swap;
+  font-display: auto;
 }
 
 html {
   font-size: 62.5%;
   height: 100%;
-  /* overflow-x: hidden; */
 }
 
 body {
