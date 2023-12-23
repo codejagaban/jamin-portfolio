@@ -36,8 +36,6 @@ body {
   color: var(--foreground-color);
   background-color: var(--background-color);
   text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   font-size: 1.6rem;
   line-height: 1.8;
   }
