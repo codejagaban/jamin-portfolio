@@ -2,7 +2,7 @@
   "title": "Using Directus Auth with NextAuth.js",
   "description": "Learn how to build an authentication system in a Next.js application using NextAuth.js and Directus Auth.",
   "link": "https://docs.directus.io/blog/directus-auth-nextauth.html",
-  "date": "Jan 10, 2023"
+  "date": "Jan 10, 2024"
 },
   {
     "title": "Serverless web scraping with TypeScript and AWS Lambda",
