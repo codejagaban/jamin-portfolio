@@ -1,4 +1,11 @@
-[  {
+[
+  {
+    "title": "Getting Started with Directus and Astro",
+    "description": "A starter guide on how to build a website using Astro framework and Directus as a headless CMS.",
+    "link": "https://docs.directus.io/blog/getting-started-directus-astro.html",
+    "date": "Jan 17, 2024"
+  },
+    {
   "title": "Using Directus Auth with NextAuth.js",
   "description": "Learn how to build an authentication system in a Next.js application using NextAuth.js and Directus Auth.",
   "link": "https://docs.directus.io/blog/directus-auth-nextauth.html",
