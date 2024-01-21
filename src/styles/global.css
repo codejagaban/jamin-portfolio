@@ -15,8 +15,8 @@
   font-display: auto;
 }
 @font-face {
-  font-family: "geist medium";
-  src: url("/fonts/geist_medium.woff2") format("woff2");
+  font-family: "trap";
+  src: url("/fonts/trap.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: auto;
@@ -63,7 +63,7 @@ body {
 
   }
   h1, h2, h3 {
-    font-family: "geist medium", sans-serif;
+    font-family: "trap", sans-serif;
 
   }
 .container {
