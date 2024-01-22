@@ -81,3 +81,6 @@ a {
 p {
   padding: 1rem 0;
 }
+::selection {
+  background-color: #ede8fe; /* Set the background color */
+}
