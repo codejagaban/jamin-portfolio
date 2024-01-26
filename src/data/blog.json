@@ -1,5 +1,11 @@
 [
   {
+    "title": "Deploying Directus to AWS EC2 with Docker",
+    "description": "In this tutorial, you will learn how to deploy a self-hosted instance of Directus to Amazon Web Services (AWS) EC2, connect it to an AWS RDS PostgreSQL database and S3 storage bucket.",
+    "link": "https://docs.directus.io/blog/deploying-directus-to-aws-ec2-with-docker.html",
+    "date": "Jan 26, 2024"
+  },
+  {
     "title": "Getting Started with Directus and Astro",
     "description": "A starter guide on how to build a website using Astro framework and Directus as a headless CMS.",
     "link": "https://docs.directus.io/blog/getting-started-directus-astro.html",
