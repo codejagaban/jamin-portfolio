@@ -1,5 +1,11 @@
 [
   {
+    "title": "Getting Started with Directus and Remix",
+    "description": "Let's learn how to build a blog using Directus as a CMS. You will store, retrieve, and use global metadata such as the site title, create new pages dynamically based on Directus items.",
+    "link": "https://docs.directus.io/blog/getting-started-with-directus-and-remix.html",
+    "date": "Jan 29, 2024"
+  },
+  {
     "title": "Deploying Directus to AWS EC2 with Docker",
     "description": "In this tutorial, you will learn how to deploy a self-hosted instance of Directus to Amazon Web Services (AWS) EC2, connect it to an AWS RDS PostgreSQL database and S3 storage bucket.",
     "link": "https://docs.directus.io/blog/deploying-directus-to-aws-ec2-with-docker.html",
