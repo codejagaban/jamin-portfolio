@@ -1,5 +1,17 @@
 [
   {
+    "title": "Deploying Directus to Google Cloud Platform with Docker",
+    "description": "Learn how to run your self-hosted Directus instance on the Google Cloud Run and connect it with a Cloud SQL database (PostgreSQL) and Cloud Storage for storing assets.",
+    "link": "https://docs.directus.io/blog/deploying-directus-to-google-cloud-platform-with-docker.html",
+    "date": "Mar 29, 2024"
+  },
+  {
+    "title": "What is cross-browser compatibility, and why should you care?",
+    "description": "This article discusses cross-browser compatibility and its significance, methods to ensure compatibility, and practical tips for ensuring cross-browser compatibility in your websites.",
+    "link": "https://blog.jamiin.com/what-is-cross-browser-compatibility-and-why-should-you-care",
+    "date": "Mar 29, 2024"
+  },
+  {
     "title": "Getting Started with Directus and Remix",
     "description": "Let's learn how to build a blog using Directus as a CMS. You will store, retrieve, and use global metadata such as the site title, create new pages dynamically based on Directus items.",
     "link": "https://docs.directus.io/blog/getting-started-with-directus-and-remix.html",
