@@ -12,6 +12,12 @@
     "date": "Mar 29, 2024"
   },
   {
+    "title": "How to build a news aggregator with Next.js, Resend, and Apify",
+    "description": "In this tutorial, you’ll learn how to build a web scraper that scrapes articles daily from 4 different platforms, displays the results in a Next.js application, and sends daily updates on the latest articles to subscribers' email addresses using Resend.com",
+    "link": "https://blog.apify.com/how-to-build-a-news-aggregator/",
+    "date": "Mar 27, 2024"
+  },
+  {
     "title": "Getting Started with Directus and Remix",
     "description": "Let's learn how to build a blog using Directus as a CMS. You will store, retrieve, and use global metadata such as the site title, create new pages dynamically based on Directus items.",
     "link": "https://docs.directus.io/blog/getting-started-with-directus-and-remix.html",
@@ -29,18 +35,18 @@
     "link": "https://docs.directus.io/blog/getting-started-directus-astro.html",
     "date": "Jan 17, 2024"
   },
-    {
-  "title": "Using Directus Auth with NextAuth.js",
-  "description": "Learn how to build an authentication system in a Next.js application using NextAuth.js and Directus Auth.",
-  "link": "https://docs.directus.io/blog/directus-auth-nextauth.html",
-  "date": "Jan 10, 2024"
-},
-{
-  "title": "TypeScript utility types: when and how to use them",
-  "description": "Learn about utility types in TypeScript, when and how to use them, and how you can combine them with custom types.",
-  "link": "https://blog.apify.com/typescript-utility-types/",
-  "date": "Nov 3, 2024"
-},
+  {
+    "title": "Using Directus Auth with NextAuth.js",
+    "description": "Learn how to build an authentication system in a Next.js application using NextAuth.js and Directus Auth.",
+    "link": "https://docs.directus.io/blog/directus-auth-nextauth.html",
+    "date": "Jan 10, 2024"
+  },
+  {
+    "title": "TypeScript utility types: when and how to use them",
+    "description": "Learn about utility types in TypeScript, when and how to use them, and how you can combine them with custom types.",
+    "link": "https://blog.apify.com/typescript-utility-types/",
+    "date": "Nov 3, 2024"
+  },
   {
     "title": "Serverless web scraping with TypeScript and AWS Lambda",
     "description": "Learn how to perform web scraping on any website using AWS Lambda services and deploy your scrapers to AWS.",
