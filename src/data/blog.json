@@ -1,10 +1,11 @@
 [
   {
-    "title": "Deploying Directus to Google Cloud Platform with Docker",
-    "description": "Learn how to run your self-hosted Directus instance on the Google Cloud Run and connect it with a Cloud SQL database (PostgreSQL) and Cloud Storage for storing assets.",
-    "link": "https://docs.directus.io/blog/deploying-directus-to-google-cloud-platform-with-docker.html",
-    "date": "Mar 29, 2024"
+    "title": "Building a Hotel Booking System with Directus, Next.js, and Stripe",
+    "description": "Learn how to build an hotel booking website with availability, billing with Stripe, and Directus as a backend.",
+    "link": "https://docs.directus.io/blog/building-a-hotel-booking-system-with-directus-next-js-and-stripe.html",
+    "date": "Apr 2, 2024"
   },
+
   {
     "title": "What is cross-browser compatibility, and why should you care?",
     "description": "This article discusses cross-browser compatibility and its significance, methods to ensure compatibility, and practical tips for ensuring cross-browser compatibility in your websites.",
