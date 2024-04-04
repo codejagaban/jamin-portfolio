@@ -1,5 +1,11 @@
 [
   {
+    "title": "Deploying Directus to Render.com",
+    "description": "In this tutorial, you will learn how to deploy a self-hosted instance of Directus to Render and connect it to a PostgreSQL database.",
+    "link": "https://blog.jamiin.com/how-to-deploy-directus-to-rendercom",
+    "date": "Apr 3, 2024"
+  },
+  {
     "title": "Building a Hotel Booking System with Directus, Next.js, and Stripe",
     "description": "Learn how to build an hotel booking website with availability, billing with Stripe, and Directus as a backend.",
     "link": "https://docs.directus.io/blog/building-a-hotel-booking-system-with-directus-next-js-and-stripe.html",
