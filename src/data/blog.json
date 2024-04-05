@@ -2,7 +2,7 @@
   {
     "title": "Deploying Directus to Render.com",
     "description": "In this tutorial, you will learn how to deploy a self-hosted instance of Directus to Render and connect it to a PostgreSQL database.",
-    "link": "https://blog.jamiin.com/how-to-deploy-directus-to-rendercom",
+    "link": "https://blog.jamin.sh/how-to-deploy-directus-to-rendercom",
     "date": "Apr 3, 2024"
   },
   {
@@ -20,7 +20,7 @@
   {
     "title": "What is cross-browser compatibility, and why should you care?",
     "description": "This article discusses cross-browser compatibility and its significance, methods to ensure compatibility, and practical tips for ensuring cross-browser compatibility in your websites.",
-    "link": "https://blog.jamiin.com/what-is-cross-browser-compatibility-and-why-should-you-care",
+    "link": "https://blog.jamin.sh/what-is-cross-browser-compatibility-and-why-should-you-care",
     "date": "Mar 29, 2024"
   },
   {
@@ -68,31 +68,31 @@
   {
     "title": "Improving Your Workflow as a Developer with Bash Aliases",
     "description": "This article explores what bash aliases are and how you can use them to enhance your development process.",
-    "link": "https://blog.jamiin.com/improving-your-workflow-as-a-developer-with-bash-aliases",
+    "link": "https://blog.jamin.sh/improving-your-workflow-as-a-developer-with-bash-aliases",
     "date": "Aug 5, 2023"
   },
   {
     "title": "Mastering Generics in Typescript",
     "description": "Explore the fundamentals of generics, delve into some of its concepts, and learn with practical examples to become a better user of generics in TypeScript.",
-    "link": "https://blog.jamiin.com/mastering-generics-in-typescript",
+    "link": "https://blog.jamin.sh/mastering-generics-in-typescript",
     "date": "Jul 14, 2023"
   },
   {
     "title": "The Differences Between Type and Interface in Typescript",
     "description": "This article explains the differences between types and interfaces, covering syntax, declaration, and implementation disparities. It provides insights into scenarios favoring each, including when to use 'type' for primitive types and when interfaces excel in extension and declaration merging",
-    "link": "https://blog.jamiin.com/the-differences-between-type-and-interface-in-typescript",
+    "link": "https://blog.jamin.sh/the-differences-between-type-and-interface-in-typescript",
     "date": "Jun 13, 2023"
   },
   {
     "title": "How to Send Custom Emails from Netlify: A Step-by-Step Guide",
     "description": "This article explains how to send custom emails from shared hosting while your site is hosted on Netlify.",
-    "link": "https://blog.jamiin.com/how-to-send-custom-emails-from-netlify-a-step-by-step-guide",
+    "link": "https://blog.jamin.sh/how-to-send-custom-emails-from-netlify-a-step-by-step-guide",
     "date": "May 29, 2023"
   },
   {
     "title": "Effectiveness of Developer Relations Programs: A Study of MongoDB, AWS, and Vercel",
     "description": "In my #90DaysofDevRel challenge, I delved into MongoDB, AWS, and Vercel's developer relations. From MongoDB's community focus to AWS's global impact and Vercel's active engagement, each company prioritizes strong customer relationships.",
-    "link": "https://blog.jamiin.com/effectiveness-of-developer-relations-programs-a-study-of-mongodb-aws-and-vercel",
+    "link": "https://blog.jamin.sh/effectiveness-of-developer-relations-programs-a-study-of-mongodb-aws-and-vercel",
     "date": "May 4, 2023"
   },
   {
