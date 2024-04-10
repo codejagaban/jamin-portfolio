@@ -12,14 +12,14 @@
   src: url("/fonts/geist_regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
-  font-display: auto;
+  font-display: swap;
 }
 @font-face {
   font-family: "brio";
   src: url("/fonts/brio.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
-  font-display: auto;
+  font-display: swap;
 }
 
 html {
@@ -36,7 +36,6 @@ body {
   color: var(--foreground-color);
   background-color: var(--background-color);
   text-rendering: optimizeLegibility;
-  font-display: fallback; 
   font-size: 1.6rem;
   line-height: 1.8;
   }
