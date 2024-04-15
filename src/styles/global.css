@@ -1,8 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@12..96&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500&display=swap');
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
+
 * {
   margin: 0;
   padding: 0;
@@ -31,51 +34,69 @@ body {
   color: var(--foreground-color);
   background-color: var(--background-color);
   text-rendering: optimizeLegibility;
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
   font-size: 1.6rem;
   line-height: 1.8;
+}
+
+.fill {
+  fill: var(--foreground-color);
+}
+
+.stroke {
+  stroke: var(--foreground-color);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: var(--dark-foreground-color);
+    background: var(--dark-background-color);
+  }
+
+  body a {
+    color: var(--dark-foreground-color);
   }
 
   .fill {
-    fill: var(--foreground-color);
+    fill: var(--dark-foreground-color);
+    ;
   }
+
   .stroke {
-    stroke: var(--foreground-color);
+    stroke: var(--dark-foreground-color);
+    ;
   }
-  @media (prefers-color-scheme: dark) {
-    body {
-      color: var(--dark-foreground-color);
-      background: var(--dark-background-color);
-    }
-    body a {
-      color: var(--dark-foreground-color);
-    }
-    .fill {
-      fill: var(--dark-foreground-color);;
-    }
-    .stroke {
-      stroke: var(--dark-foreground-color);;
-    }
 
-  }
-  h1, h2, h3 {
-    font-family: "Bricolage Grotesque", sans-serif;
+}
 
-  }
+h1,
+h2,
+h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-weight: 500;
+
+}
+
 .container {
   max-width: 80rem;
   margin: 0 auto;
   padding: 2rem 3rem;
   width: 100%;
 }
+
 a {
   text-decoration: none;
   color: #333;
   border-bottom: 1.5px solid #A78BFA;
   transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
+
 p {
   padding: 1rem 0;
 }
+
 ::selection {
-  background-color: #ede8fe; /* Set the background color */
+  background-color: #ede8fe;
+  /* Set the background color */
 }
