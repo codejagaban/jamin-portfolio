@@ -1,5 +1,11 @@
 [
   {
+    "title": "How to upload files in Webflow using Uploadcare File Uploader",
+    "description": "Learn how to integrate Uploadcare File Uploader into your Webflow websites with custom code.",
+    "link": "https://uploadcare.com/blog/how-to-upload-files-in-webflow-using-file-uploader/",
+    "date": "Jun 4th, 2024"
+  },
+  {
     "title": "Build an E-commerce Website With Directus and Next.js",
     "description": "In this tutorial, you'll learn how to build an E-commerce store with Next.js that accepts Stripe payments and it's backend services are powered by Directus.",
     "link": "https://docs.directus.io/blog/build-an-e-commerce-website-with-directus-and-next-js.html",
