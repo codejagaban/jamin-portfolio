@@ -1,8 +1,14 @@
 [
   {
+    "title": "How to upload files using Uploadcare React File Uploader in Next.js",
+    "description": "Learn how to upload files in a Next.js application using Uploadcare’s React File Uploader component and display optimized images with transformation features on the fly.",
+    "link": "https://uploadcare.com/blog/file-uploading-in-nextjs/",
+    "date": "Jun 10th, 2024"
+  },
+  {
     "title": "How to upload files in Webflow using Uploadcare File Uploader",
     "description": "Learn how to integrate Uploadcare File Uploader into your Webflow websites with custom code.",
-    "link": "https://uploadcare.com/blog/how-to-upload-files-in-webflow-using-file-uploader/",
+    "link": "https://uploadcare.com/blog/file-uploading-in-webflow/",
     "date": "Jun 4th, 2024"
   },
   {
