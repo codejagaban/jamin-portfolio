@@ -1,5 +1,11 @@
 [
   {
+    "title": "Build an image gallery with Uploadcare JS client SDK and Nuxt.js",
+    "description": "Learn how to build an image gallery with Uploadcare file uploader, JS Client SDK and Nuxt.js",
+    "link": "https://uploadcare.com/blog/image-gallery-with-nuxtjs/",
+    "date": "Jun 18th, 2024"
+  },
+  {
     "title": "How to upload files using Uploadcare React File Uploader in Next.js",
     "description": "Learn how to upload files in a Next.js application using Uploadcare’s React File Uploader component and display optimized images with transformation features on the fly.",
     "link": "https://uploadcare.com/blog/file-uploading-in-nextjs/",
