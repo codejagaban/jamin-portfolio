@@ -1,5 +1,10 @@
 [
   {
+    "title": "How to load responsive images with lr-img",
+    "description": "Use Uploadcare lr-img adaptive component to optimize image performance, provide a seamless user experience, and improve overall website metrics.",
+    "date": "Jun 24th, 2024"
+  },
+  {
     "title": "Build an image gallery with Uploadcare JS client SDK and Nuxt.js",
     "description": "Learn how to build an image gallery with Uploadcare file uploader, JS Client SDK and Nuxt.js",
     "link": "https://uploadcare.com/blog/image-gallery-with-nuxtjs/",
