@@ -1,5 +1,11 @@
 [
   {
+    "title": "How to Upload Files in Vue.js with Uploadcare",
+    "description": "Learn how to upload files in a Vue.js application using Uploadcare’s File Uploader library and apply transformation features on the fly.",
+    "link": "https://uploadcare.com/blog/file-uploading-in-vuejs/",
+    "date": "Jul 10th, 2024"
+  },
+  {
     "title": "How to load responsive images with lr-img",
     "description": "Use Uploadcare lr-img adaptive component to optimize image performance, provide a seamless user experience, and improve overall website metrics.",
     "link": "https://uploadcare.com/blog/lr-img-optimization/",
