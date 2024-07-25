@@ -1,5 +1,11 @@
 [
   {
+    "title": "File uploading in Android with Kotlin and Uploadcare",
+    "description": "Learn how to upload files to Android applications using Uploadcare’s Android SDK in Kotlin.",
+    "link": "https://uploadcare.com/blog/file-uploading-in-android/",
+    "date": "Jul 23rd, 2024"
+  },
+  {
     "title": "How to Upload Files in Vue.js with Uploadcare",
     "description": "Learn how to upload files in a Vue.js application using Uploadcare’s File Uploader library and apply transformation features on the fly.",
     "link": "https://uploadcare.com/blog/file-uploading-in-vuejs/",
