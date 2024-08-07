@@ -1,5 +1,17 @@
 [
   {
+    "title": "Handling Large File Uploads - A Developer Guide",
+    "description": "Learn effective techniques for handling large file uploads, including chunking, resumable uploads, streaming, and using a CDN to optimize upload performance and reliability.",
+    "link": "https://uploadcare.com/blog/handling-large-file-uploads/",
+    "date": "Aug 6th, 2024"
+  },
+  {
+    "title": "Image optimization for Next.js applications",
+    "description": "Optimize your Next.js applications with advanced image handling techniques, using Next.js’s built-in image component and Uploadcare’s image loader for better performance.",
+    "link": "https://uploadcare.com/blog/image-optimization-in-nextjs/",
+    "date": "Jul 30th, 2024"
+  },
+  {
     "title": "File uploading in Android with Kotlin and Uploadcare",
     "description": "Learn how to upload files to Android applications using Uploadcare’s Android SDK in Kotlin.",
     "link": "https://uploadcare.com/blog/file-uploading-in-android/",
