@@ -1,5 +1,17 @@
 [
   {
+    "title": "UX best practices for designing an intuitive file uploader",
+    "description": "Creating a user-friendly file upload experience is important. Explore essential UX best practices and discover how our new and improved File Uploader helps you implement them.",
+    "link": "https://uploadcare.com/blog/file-uploader-ux-best-practices/",
+    "date": "Nov 18th, 2024"
+  },
+  {
+    "title": "File uploader validation guide",
+    "description": "Learn how to use Uploadcare’s File Uploader validators to enforce quality and consistency and create custom validators for your projects.",
+    "link": "https://uploadcare.com/blog/file-validators/",
+    "date": "Nov 6th, 2024"
+  },
+  {
     "title": "Malicious File Uploads Detection with Uploadcare’s File Scanning",
     "description": "Learn how Uploadcare detect and prevent malicious file uploads, ensuring your projects stay secure from hidden threats.",
     "link": "https://uploadcare.com/blog/malicious-file-detection/",
