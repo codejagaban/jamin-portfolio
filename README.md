@@ -1,6 +1,6 @@
 # Hello 👋
 
-Trust Jamin is a senior software engineer, developer advocate, and technical writer with over four years of experience building scalable software solutions and developer-focused content. With a strong background in modern web and open-source technologies—including Astro, React, Vue.js, Go, Node.js, and TypeScript—Jamin combines hands-on engineering experience with a passion for developer education and community building.
+Trust Jamin is a senior software engineer, developer advocate, and technical writer with years experience building scalable software solutions and developer-focused content. With a strong background in modern web and open-source technologies—including Astro, React, Vue.js, Go, Node.js, and TypeScript—Jamin combines hands-on engineering experience with a passion for developer education and community building.
 
 He has contributed to the success of product-led companies like [Uploadcare](https://uploadcare.com/), [Directus](https://directus.io/), and [Bejamas](https://bejamas.io/), leading initiatives that have improved developer experience, increased product adoption, and grown active communities. 
 
