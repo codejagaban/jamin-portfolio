@@ -1,14 +1,19 @@
 # Hello 👋
 
-Trust Jamin is a senior software engineer, technical writer, and developer advocate with a passion for building great products and empowering developer communities. He’s experienced in modern technologies like Astro, React, Vue.js, GoLang Node.js, and TypeScript—and he’s equally skilled at writing clear, practical documentation that helps developers get things done. He has contributed to technical documentations and blogs for companies such as [Uploadcare](https://uploadcare.com/), [Directus](https://directus.io/), [Apify](https://apify.com/)
+Trust Jamin is a senior software engineer, developer advocate, and technical writer with over four years of experience building scalable software solutions and developer-focused content. With a strong background in modern web and open-source technologies—including Astro, React, Vue.js, Go, Node.js, and TypeScript—Jamin combines hands-on engineering experience with a passion for developer education and community building.
 
-Beyond code, Jamin is also a strong community builder. He’s the co-founder of Community Leads Africa and co-leads Polygon Guild Lagos. He’s also a Twilio Champion and a Notion ambassador, where he brings people together to share knowledge and grow.
+He has contributed to the success of product-led companies like [Uploadcare](https://uploadcare.com/), [Directus](https://directus.io/), and [Bejamas](https://bejamas.io/), leading initiatives that have improved developer experience, increased product adoption, and grown active communities. 
 
-His writing has been featured on various platforms, such as [Hashnode](https://hashnode.com/), [Apify](https://apify.com/), [Dev.to](https://dev.to/codejagaban), and [Medium](https://medium.com/@codejagaban), along with his own [personal blog](https://blog.jamin.sh/), which has gathered over a million views! He has a knack for breaking down technical concepts into easy-to-understand and friendly content. Additionally, he loves sharing his passion at top developer events like CityJS Conf Lagos, Untitled Design Conference, and CMFest Africa, where he inspires others through engaging talks, hands-on workshops, fun webinars, and live demos.
+<!-- At Uploadcare, Trust led the creation of developer resources that boosted blog traffic by 30% and onboarded over 5,000 developers. At Directus, his technical documentation helped raise onboarding success rates by 50% and expanded the developer community by 30%.-->
 
-Jamin is great at connecting with developers, listening to feedback, and working across teams to create developer-first experiences. When he’s not working, he enjoys volunteering, contributing to open source, and helping others succeed in tech.
+As the co-founder of [Community Leads Africa](https://communityleads.africa/) and co-lead of [Polygon Guild Lagos](https://polygon.technology/community/guilds/), Jamin is deeply invested in empowering Africa’s tech ecosystem. He’s also a [Twilio Champion](https://www.twilio.com/champions) and a [Notion Ambassador](https://www.notion.so/ambassadors), collaborating on global initiatives to uplift developers through talks, events, and educational content.
+
+With over a million views across platforms like [Hashnode](https://hashnode.com/@codejagaban), [Dev.to](https://dev.to/codejagaban), [Apify](https://apify.com/blog), [Medium](https://medium.com/@codejagaban) and his own [personal blog](https://blog.jamin.sh/), Jamin has a proven knack for turning complex technical concepts into friendly, digestible content. He has also spoken at international conferences like [CityJS Lagos](https://cityjsconf.org/lagos2023/), [UDC (Untitled Design Conference)](https://www.udconf.com/), and [CMFest Africa](https://www.cmfestafrica.com/), inspiring developers around the world.
+
 
 In his free time, Jamin enjoys contributing to open-source projects and developing solutions for challenges he has encountered, reflecting his dedication to both personal growth and the advancement of the developer communities. 
+
+
 
 Want to collaborate, speak, or build something awesome? Reach out—Jamin is always excited to connect. 🚀
 
