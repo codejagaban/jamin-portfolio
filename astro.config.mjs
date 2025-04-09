@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
-import react from "@astrojs/react";
+import react from '@astrojs/react';
 import vercel from '@astrojs/vercel/static';
+import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
@@ -12,5 +13,6 @@ export default defineConfig({
       enabled: true
     }
   }),
-  integrations: [react()]
+  site: 'https://jamin.sh',
+  integrations: [react(), sitemap()]
 });
