@@ -1,5 +1,14 @@
 [
   {
+    "title": "Creating World-Class User Experience Design for API Documentation",
+    "confName": "Untitled Designer Conference 2024",
+    "confLink": "https://www.untitleddesigners.org/",
+    "slide": "https://speakerdeck.com/codejagaban/creating-world-class-user-experience-design-for-api-documentation",
+    "date": "Aug 23-24, 2024"
+  },
+    
+  
+  {
   "title": "Collaborative Development with Jira and GitHub: Tips and Tricks",
   "confName": "Atlassian Community Event Uyo",
   "confLink": "https://ace.atlassian.com/events/details/atlassian-uyo-nigeria-presents-collaborative-development-with-jira-and-github-tips-and-tricks/",
@@ -14,17 +23,25 @@
     "date": "Nov 11, 2023"
   },
   {
-    "title": "Jira and Frontend Development",
-    "confName": "Atlassian Community Event",
-    "confLink": "https://ace.atlassian.com/events/details/atlassian-oghara-presents-jira-and-frontend-development/",
-    "slide": "https://speakerdeck.com/codejagaban/jira-and-frontend-development",
-    "date": "Apr 22, 2023"
+    "title": "Writing Inclusive & Localized Docs for Global Communities",
+    "confName": "CMFest2023",
+    "confLink": "https://cmfest.africa/",
+    "slide": "https://speakerdeck.com/codejagaban/writing-inclusive-and-localized-docs-for-global-communities",
+    "date": "Oct 29, 2022"
   },
   {
     "title": "Building a Career as a Developer",
     "confName": "Atlassian Community Event",
     "confLink": "https://ace.atlassian.com/events/details/trello-oghara-presents-remote-work-and-career-advancement/",
     "slide": "https://speakerdeck.com/codejagaban/becoming-a-developer",
-    "date": "Nov 23, 2022"
-  }
+    "date": "Dec 08, 2022"
+  },
+  {
+    "title": "Jira and Frontend Development",
+    "confName": "Atlassian Community Event",
+    "confLink": "https://ace.atlassian.com/events/details/atlassian-oghara-presents-jira-and-frontend-development/",
+    "slide": "https://speakerdeck.com/codejagaban/jira-and-frontend-development",
+    "date": "Jun 17, 2022"
+  },
+
 ]
